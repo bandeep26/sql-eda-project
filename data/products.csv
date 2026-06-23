@@ -1,0 +1,56 @@
+product_id,product_name,category,flavour,size_kg,base_price,is_active
+PROD-101,WheyMax Pro Mango 4.0kg,Whey Protein,Mango,4.0,2062.47,1
+PROD-102,WheyCore Classic Cookies & Cream 1.0kg,Whey Protein,Cookies & Cream,1.0,3124.58,1
+PROD-103,ProteinPeak Whey 1.0kg,Whey Protein,Unflavoured,1.0,3714.61,1
+PROD-104,IsoWhey Elite Coffee 4.0kg,Whey Protein,Coffee,4.0,2837.12,0
+PROD-105,WheyVantage Vanilla 2.0kg,Whey Protein,Vanilla,2.0,3221.29,1
+PROD-106,WheyCore Classic Vanilla 2.0kg,Whey Protein,Vanilla,2.0,3605.58,1
+PROD-107,WheyFuel Gold Cookies & Cream 1.0kg,Whey Protein,Cookies & Cream,1.0,3718.81,1
+PROD-108,WheyBurst Ultra Mango 1.0kg,Whey Protein,Mango,1.0,2898.12,1
+PROD-109,WheyForge Cookies & Cream 4.0kg,Whey Protein,Cookies & Cream,4.0,2552.17,1
+PROD-110,ProteinPeak Whey Cookies & Cream 1.0kg,Whey Protein,Cookies & Cream,1.0,2635.02,1
+PROD-111,WheyVantage Vanilla 4.0kg,Whey Protein,Vanilla,4.0,3494.37,1
+PROD-112,WheyVantage Cookies & Cream 1.0kg,Whey Protein,Cookies & Cream,1.0,3413.06,1
+PROD-113,WheyCore Classic Mango 1.0kg,Whey Protein,Mango,1.0,2239.31,1
+PROD-114,MassWhey Pro 2.0kg,Whey Protein,Unflavoured,2.0,3231.42,1
+PROD-115,PlantMax Protein Blend Vanilla 1.0kg,Plant Protein,Vanilla,1.0,2616.8,1
+PROD-116,PureSprout Protein Vanilla 2.0kg,Plant Protein,Vanilla,2.0,1866.98,1
+PROD-117,PlantCore Pea Protein 1.0kg,Plant Protein,Unflavoured,1.0,2591.06,1
+PROD-118,VeganFuel Plant Protein Peanut Butter 0.5kg,Plant Protein,Peanut Butter,0.5,1912.21,1
+PROD-119,SoyFuel Protein Peanut Butter 1.0kg,Plant Protein,Peanut Butter,1.0,2695.51,1
+PROD-120,PlantMax Protein Blend Peanut Butter 0.5kg,Plant Protein,Peanut Butter,0.5,1732.27,0
+PROD-121,PlantCore Pea Protein 0.5kg,Plant Protein,Unflavoured,0.5,2039.76,1
+PROD-122,PlantCore Pea Protein Peanut Butter 2.0kg,Plant Protein,Peanut Butter,2.0,2788.03,1
+PROD-123,NitroBlast Pre Mango 0.25kg,Pre-Workout,Mango,0.25,1828.62,1
+PROD-124,VoltagePre Mango 0.25kg,Pre-Workout,Mango,0.25,2616.01,1
+PROD-125,SurgeFuel Pre Fruit Punch 0.25kg,Pre-Workout,Fruit Punch,0.25,2577.58,1
+PROD-126,SurgeFuel Pre Green Apple 0.25kg,Pre-Workout,Green Apple,0.25,2119.57,1
+PROD-127,NitroBlast Pre Fruit Punch 0.25kg,Pre-Workout,Fruit Punch,0.25,2641.01,1
+PROD-128,VoltagePre Mango 0.5kg,Pre-Workout,Mango,0.5,2085.07,1
+PROD-129,SurgeFuel Pre Watermelon 0.25kg,Pre-Workout,Watermelon,0.25,2312.12,1
+PROD-130,IgniteX Pre-Workout Green Apple 0.5kg,Pre-Workout,Green Apple,0.5,1868.22,1
+PROD-131,NitroBlast Pre Watermelon 0.3kg,Pre-Workout,Watermelon,0.3,2870.03,1
+PROD-132,IgniteX Pre-Workout Watermelon 0.25kg,Pre-Workout,Watermelon,0.25,1633.99,1
+PROD-133,CreatineMax Fruit Punch 0.2kg,Creatine,Fruit Punch,0.2,1042.17,1
+PROD-134,CreatineForge Fruit Punch 0.2kg,Creatine,Fruit Punch,0.2,1351.99,1
+PROD-135,CreaPure Monohydrate Fruit Punch 0.5kg,Creatine,Fruit Punch,0.5,1649.8,1
+PROD-136,PowerCreatine Fruit Punch 0.2kg,Creatine,Fruit Punch,0.2,1227.29,0
+PROD-137,CreatineForge 0.5kg,Creatine,Unflavoured,0.5,1872.15,1
+PROD-138,CreatineForge Fruit Punch 0.1kg,Creatine,Fruit Punch,0.1,1695.68,1
+PROD-139,CreaCore 0.2kg,Creatine,Unflavoured,0.2,1168.54,1
+PROD-140,PowerCreatine 0.5kg,Creatine,Unflavoured,0.5,1752.42,1
+PROD-141,BCAA Recover Pro Lemon Ice 0.2kg,BCAA,Lemon Ice,0.2,1788.8,1
+PROD-142,BCAA Recover Pro Lemon Ice 0.2kg,BCAA,Lemon Ice,0.2,1585.41,0
+PROD-143,RecoverMax BCAA Mango 0.5kg,BCAA,Mango,0.5,2100.35,1
+PROD-144,BCAA Surge Mango 0.4kg,BCAA,Mango,0.4,1202.67,1
+PROD-145,BCAA Recover Pro Orange 0.5kg,BCAA,Orange,0.5,2094.18,1
+PROD-146,RecoverMax BCAA Orange 0.5kg,BCAA,Orange,0.5,1869.39,1
+PROD-147,BCAA Recover Pro Lemon Ice 0.2kg,BCAA,Lemon Ice,0.2,1334.76,0
+PROD-148,BCAA Blast Mango 0.5kg,BCAA,Mango,0.5,1847.98,0
+PROD-149,Multivitamin Gummies 0.05kg,Vitamins,Unflavoured,0.05,1190.52,1
+PROD-150,Vitamin D3 Boost 0.05kg,Vitamins,Unflavoured,0.05,583.16,1
+PROD-151,Daily Multivitamin 0.1kg,Vitamins,Unflavoured,0.1,694.05,1
+PROD-152,Zinc & Magnesium Complex 0.15kg,Vitamins,Unflavoured,0.15,1194.35,1
+PROD-153,Vitamin C Immunity 0.15kg,Vitamins,Unflavoured,0.15,920.02,1
+PROD-154,Multivitamin Gummies 0.15kg,Vitamins,Unflavoured,0.15,998.62,1
+PROD-155,Vitamin C Immunity 0.05kg,Vitamins,Unflavoured,0.05,469.35,1
